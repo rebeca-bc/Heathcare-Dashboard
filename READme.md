@@ -49,6 +49,11 @@ This kind of dashboard is relevant not only for healthcare, but also in any fiel
 ---
 
 ## Visualize it
+<img width="1440" height="900" alt="Screen Shot 2025-09-19 at 18 39 04" src="https://github.com/user-attachments/assets/10e4bee4-9cc0-4df6-9d17-1aa33e17f333" />
+
+<img width="1440" height="900" alt="Screen Shot 2025-09-19 at 18 39 17" src="https://github.com/user-attachments/assets/1863bcdb-0636-4cac-a791-b7936dcd22a1" />
+
+<img width="1440" height="900" alt="Screen Shot 2025-09-19 at 18 39 29" src="https://github.com/user-attachments/assets/7b791b30-4e94-4540-8053-7608a5426a31" />
 
 ---
 
